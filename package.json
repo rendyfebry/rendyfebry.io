@@ -15,8 +15,11 @@
   "dependencies": {
     "bootstrap": "^4.1.1",
     "bootstrap-vue": "^2.0.0-rc.9",
+    "highcharts": "^6.1.0",
     "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "vue-highcharts": "^0.0.10",
+    "vue-router": "^3.0.1",
+    "vue2-highcharts": "^1.2.4"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",

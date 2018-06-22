@@ -5,11 +5,7 @@
 				<b-row>
 					<b-col sm="12" lg="5">
 						<h1 class="main-title">
-							&lt;Hello&gt;<br />
-							&nbsp;&nbsp;&nbsp;&nbsp;
-							My name is <b>Rendy Febry</b>,
-							<br />
-							&lt;/Hello&gt;
+							Where I have <b>been</b>
 						</h1>
 					</b-col>
 					<b-col sm="12" lg="7">
@@ -17,93 +13,7 @@
 				</b-row>
 			</b-container>
 		</header>
-		<section>
-			<b-container>
-				<b-row>
-					<b-col col lg="8" offset-lg="2" class="pt-4 pb-4 text-center">
-						<h3>Nice to meet you</h3>
-						<p class="mb-0">
-							My name is Rendy Febry, 27 years old. I am a passionate Fullstack Software Engineer with more than 6 years experience in Software Development, and almost 10 years in IT industry.
-						</p>
-					</b-col>
-				</b-row>
-			</b-container>
-		</section>
-		<section class="bg-light">
-			<b-container>
-				<b-row>
-					<b-col sm="12" lg="4">
-						<div class="text-center skill-icon">
-							<i class="fa fa-code " />
-						</div>
-						<h4 class="text-center">
-							Front End
-						</h4>
-						<p>
-							JavaScript, ReactJS, VueJS, JQuery, HTML, CSS, etc.
-						</p>
-					</b-col>
-					<b-col sm="12" lg="4">
-						<div class="text-center skill-icon">
-							<i class="fa fa-cog " />
-						</div>
-						<h4 class="text-center">
-							Back End
-						</h4>
-						<p>
-							NodeJS, Python, GoLang, ExpressJS, Flask, PHP, Laravel, etc.
-						</p>
-					</b-col>
-					<b-col sm="12" lg="4">
-						<div class="text-center skill-icon">
-							<i class="fa fa-database " />
-						</div>
-						<h4 class="text-center">
-							Others
-						</h4>
-						<p>
-							MongoDB, MySQL, ElasticSearch, Docker, Kubernetes,
-							Gitlab CI, ELK Stack, etc.
-						</p>
-					</b-col>
-				</b-row>
-			</b-container>
-		</section>
-		<!-- <section>
-			<b-container>
-				<b-row class="">
-					<b-col col sm="12" lg="6" class="text-center">
-						<b-link to="/project" class="btn btn-outline-primary">
-							My Portfolio
-						</b-link>
-					</b-col>
-					<b-col col sm="12" lg="6" class="text-center">
-						<b-link to="/experience" class="btn btn-primary">
-							My Professional Experiences
-						</b-link>
-					</b-col>
-				</b-row>
-			</b-container>
-		</section> -->
-		<section>
-			<b-container>
-				<b-row>
-					<b-col>
-						<highcharts :options="graphOpt"></highcharts>
-					</b-col>
-				</b-row>
-			</b-container>
-		</section>
-		<!-- <section class="mb-5">
-			<b-container>
-				<b-row class="mb-4">
-					<b-col sm="12">
-						<h3 class="text-center">
-							<u>Professional Experiences</u>
-						</h3>
-					</b-col>
-				</b-row>
-			</b-container>
+		<section class="mb-5">
 			<b-container>
 				<b-col sm="12" lg="10" offset-lg="1">
 					<b-row class="mb-5">
@@ -241,80 +151,18 @@
 					</b-row>
 				</b-col>
 			</b-container>
-		</section> -->
+		</section>
 	</div>
 </template>
 
 <script>
-export default {
-	computed: {
-		graphOpt() {
-			const options = {
-				chart: {
-					type: 'column',
-				},
-				title: {
-					text: 'Years of Experience',
-				},
-				xAxis: {
-					categories: [
-						'JavaScript',
-						'React',
-						'VueJS',
-						'PHP & SQL',
-						'NodeJS',
-						'Python',
-						'Go',
-						'MongoDB',
-						'Linux & Server',
-						'Docker',
-					],
-					title: {
-						text: null,
-					},
-				},
-				yAxis: {
-					min: 0,
-					title: {
-						text: 'Total Experience (years)',
-						align: 'high',
-					},
-					labels: {
-						overflow: 'justify',
-					},
-				},
-				tooltip: {
-					valueSuffix: ' years',
-				},
-				plotOptions: {
-					bar: {
-						dataLabels: {
-							enabled: true,
-						},
-					},
-				},
-				credits: {
-					enabled: false,
-				},
-				series: [
-					{
-						name: 'Years',
-						data: [5, 3, 2, 5.5, 3.5, 2.5, 1.5, 3.5, 5, 2],
-					},
-				],
-			}
-
-			return options
-		},
-	},
-}
+export default {}
 </script>
 
 <style scoped>
 header {
 	background: linear-gradient(315deg, #56ccf2 0, #3a95ee 73%, #2f80ed 100%);
-	/* min-height: 40rem; */
-	min-height: 100vh;
+	min-height: 20rem;
 	padding-top: 3.5rem;
 	padding-bottom: 2rem;
 	color: #fff;
