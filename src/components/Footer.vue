@@ -26,17 +26,17 @@
 								<ul>
 									<li>
 										<b-link href="mailto:rendyfebry@gmail.com">
-											<i class="fa fa-envelope" /> &nbsp; Email
+											<i class="fa fa-envelope" /> &nbsp; rendyfebry@gmail.com
 										</b-link>
 									</li>
 									<li>
-										<b-link href="https://www.linkedin.com/in/rendyfebry/">
-											<i class="fa fa-linkedin" /> &nbsp; Linkedin
+										<b-link href="https://www.linkedin.com/in/rendyfebry/" target="_blank">
+											<i class="fa fa-linkedin" /> &nbsp; linkedin.com/in/rendyfebry
 										</b-link>
 									</li>
 									<li>
-										<b-link href="https://github.com/rendyfebry">
-											<i class="fa fa-github" /> &nbsp; Github
+										<b-link href="https://github.com/rendyfebry" target="_blank">
+											<i class="fa fa-github" /> &nbsp; github.com/rendyfebry
 										</b-link>
 									</li>
 								</ul>

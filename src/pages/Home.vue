@@ -23,7 +23,8 @@
 					<b-col col lg="8" offset-lg="2" class="pt-4 pb-4 text-center">
 						<h3>Nice to meet you</h3>
 						<p class="mb-0">
-							My name is Rendy Febry, 27 years old. I am a passionate Fullstack Software Engineer with more than 6 years experience in Software Development, and almost 10 years in IT industry.
+							My name is Rendy Febry, 27 years old. I am a Fullstack Software Engineer, based on Bandung, Indonesia.
+							I have more than 6 years experience in Software Development, and almost 10 years in IT industry.
 						</p>
 					</b-col>
 				</b-row>

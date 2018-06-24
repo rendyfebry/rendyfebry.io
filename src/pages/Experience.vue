@@ -50,6 +50,7 @@
 							>
 						</b-col>
 					</b-row>
+					<hr class="ml-4 mr-4 mb-5"/>
 					<b-row class="mb-5">
 						<b-col sm="12" lg="3">
 							<img
@@ -81,6 +82,7 @@
 							</ul>
 						</b-col>
 					</b-row>
+					<hr class="ml-4 mr-4 mb-5"/>
 					<b-row class="mb-5">
 						<b-col sm="12" lg="9">
 							<h4 class="mb-0">
@@ -113,6 +115,7 @@
 							>
 						</b-col>
 					</b-row>
+					<hr class="ml-4 mr-4 mb-5"/>
 					<b-row>
 						<b-col sm="12" lg="3">
 							<img
