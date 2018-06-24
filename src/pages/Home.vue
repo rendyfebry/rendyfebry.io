@@ -3,7 +3,7 @@
 		<header>
 			<b-container>
 				<b-row>
-					<b-col sm="12" lg="5">
+					<b-col sm="12" lg="6">
 						<h1 class="main-title">
 							&lt;Hello&gt;<br />
 							&nbsp;&nbsp;&nbsp;&nbsp;
@@ -324,11 +324,13 @@ header {
 }
 
 h1 {
-	font-size: 2rem;
+	font-size: 1.5rem;
 }
 
-h2 {
-	font-size: 1rem;
+@media screen and (min-width: 768px) {
+	h1 {
+		font-size: 2rem;
+	}
 }
 
 section {

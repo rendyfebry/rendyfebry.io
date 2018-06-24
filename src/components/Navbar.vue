@@ -33,11 +33,11 @@ export default {}
 	background-color: transparent !important;
 }
 
-@media screen and (min-width: 768px) {
-	.home-navbar {
-		position: absolute;
-		left: 0;
-		right: 0;
-	}
+/* @media screen and (min-width: 768px) { */
+.home-navbar {
+	position: absolute;
+	left: 0;
+	right: 0;
 }
+/* } */
 </style>
