@@ -25,14 +25,14 @@
 						</b-col>
 					</b-row>
 					<b-row class="mb-5">
-						<b-col>
+						<b-col col lg="10" offset-lg="1">
 							<h4 class="mb-0">
-								Managix
 								<a href="https://managix.id/" target="_blank">
 									<small>
 										<i class="fa fa-link" />
 									</small>
 								</a>
+								Managix
 							</h4>
 							<p class="text-blue-soft">
 								<small>Pixel House Studio</small>
@@ -64,14 +64,14 @@
 						</b-col>
 					</b-row>
 					<b-row class="mb-5">
-						<b-col>
+						<b-col col lg="10" offset-lg="1">
 							<h4 class="mb-0">
-								SELabSuite
 								<a href="https://selabsuite.com/" target="_blank">
 									<small>
 										<i class="fa fa-link" />
 									</small>
 								</a>
+								SELabSuite
 							</h4>
 							<p class="text-blue-soft">
 								<small>Pixel House Studio</small>
@@ -95,7 +95,13 @@
 					</b-row>
 					<hr class="ml-4 mr-4 mb-5"/>
 					<b-row class="mb-5">
-						<b-col sm="12" lg="9" order-lg="2">
+						<b-col sm="12" lg="3" order-lg="2" class="text-center">
+							<img
+								class="img-fluid mb-3"
+								src="../assets/images/bosung-logo.gif"
+							>
+						</b-col>
+						<b-col sm="12" lg="9" order-lg="1">
 							<h4 class="mb-0">
 								Bosung Payroll System
 								<small>
@@ -116,15 +122,15 @@
 								</li>
 							</ul>
 						</b-col>
-						<b-col sm="12" lg="3" order-lg="1">
-							<img
-								class="img-fluid"
-								src="../assets/images/bosung-logo.gif"
-							>
-						</b-col>
 					</b-row>
 					<hr class="ml-4 mr-4 mb-5"/>
 					<b-row class="mb-5">
+						<b-col sm="12" lg="3" class="text-center">
+							<img
+								class="img-fluid mb-3"
+								src="../assets/images/bosung-logo.gif"
+							>
+						</b-col>
 						<b-col sm="12" lg="9">
 							<h4 class="mb-0">
 								Bosung ERP System
@@ -145,12 +151,6 @@
 								</li>
 							</ul>
 						</b-col>
-						<b-col sm="12" lg="3">
-							<img
-								class="img-fluid"
-								src="../assets/images/bosung-logo.gif"
-							>
-						</b-col>
 					</b-row>
 					<hr class="ml-4 mr-4 mb-5"/>
 					<b-row class="mb-5">
@@ -162,14 +162,14 @@
 						</b-col>
 					</b-row>
 					<b-row class="mb-5">
-						<b-col>
+						<b-col col lg="10" offset-lg="1">
 							<h4 class="mb-0">
-								MDM Machine Design
 								<a href="https://www.mdm-srl.com/" target="_blank">
 									<small>
 										<i class="fa fa-link" />
 									</small>
 								</a>
+								MDM Machine Design
 							</h4>
 							<p class="text-blue-soft">
 								<small>Freelance Project</small>
@@ -197,14 +197,14 @@
 						</b-col>
 					</b-row>
 					<b-row class="mb-5">
-						<b-col>
+						<b-col col lg="10" offset-lg="1">
 							<h4 class="mb-0">
-								On Show App
 								<a href="https://www.onshowapp.com/" target="_blank">
 									<small>
 										<i class="fa fa-link" />
 									</small>
 								</a>
+								On Show App
 							</h4>
 							<p class="text-blue-soft">
 								<small>Freelance Project</small>
@@ -229,14 +229,14 @@
 						</b-col>
 					</b-row>
 					<b-row class="mb-5">
-						<b-col>
+						<b-col col lg="10" offset-lg="1">
 							<h4 class="mb-0">
-								Honda Indonesia
 								<a href="https://www.honda-indonesia.com/" target="_blank">
 									<small>
 										<i class="fa fa-link" />
 									</small>
 								</a>
+								Honda Indonesia
 							</h4>
 							<p class="text-blue-soft">
 								<small>Freelance Project</small>
@@ -247,6 +247,36 @@
 							<ul class="listed-item">
 								<li>
 									Technology stack: JavaScript, CSS, and Bootstrap
+								</li>
+							</ul>
+						</b-col>
+					</b-row>
+					<hr class="ml-4 mr-4 mb-5"/>
+					<b-row class="mb-5">
+						<b-col sm="12" lg="8" offset-lg="2">
+							<img
+								class="img-fluid"
+								src="../assets/images/project-cabz.jpg"
+							>
+						</b-col>
+					</b-row>
+					<b-row class="mb-5">
+						<b-col col lg="10" offset-lg="1">
+							<h4 class="mb-0">
+								Cabz
+								<small>
+									( Discontinued )
+								</small>
+							</h4>
+							<p class="text-blue-soft">
+								<small>Freelance Project</small>
+							</p>
+							<p>
+								Company Profile website for taxi company from France
+							</p>
+							<ul class="listed-item">
+								<li>
+									Technology stack: Wordpress, JavaScript, CSS, and Bootstrap
 								</li>
 							</ul>
 						</b-col>
