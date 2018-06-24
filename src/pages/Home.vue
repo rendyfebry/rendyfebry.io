@@ -95,21 +95,38 @@
 				</b-row>
 			</b-container>
 		</section>
-		<section class="bg-light">
+		<section class="bg-light pb-0 pt-4">
 			<b-container>
 				<b-row>
 					<b-col xs="12" lg="4">
-						<b-btn size="lg" variant="outline-secondary" block to="/project">
+						<b-btn
+							size="lg"
+							variant="outline-secondary"
+							block
+							to="/project"
+							class="mb-4"
+						>
 							<i class="fa fa-object-group"/> Project
 						</b-btn>
 					</b-col>
 					<b-col xs="12" lg="4">
-						<b-btn size="lg" variant="primary" block to="/experience">
+						<b-btn
+							size="lg"
+							variant="primary"
+							block
+							to="/experience"
+							class="mb-4"
+						>
 							<i class="fa fa-briefcase"/> Experience
 						</b-btn>
 					</b-col>
 					<b-col xs="12" lg="4">
-						<b-btn size="lg" variant="success" block>
+						<b-btn
+							size="lg"
+							variant="success"
+							block
+							class="mb-4"
+						>
 							<i class="fa fa-download"/> Download CV
 						</b-btn>
 					</b-col>
