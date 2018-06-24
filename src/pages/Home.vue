@@ -121,14 +121,13 @@
 						</b-btn>
 					</b-col>
 					<b-col xs="12" lg="4">
-						<b-btn
-							size="lg"
-							variant="success"
-							block
-							class="mb-4"
+						<a
+							class="btn mb-4 btn-success btn-lg btn-block"
+							href="/static/cv-rendy.pdf"
+							target="_blank"
 						>
 							<i class="fa fa-download"/> Download CV
-						</b-btn>
+						</a>
 					</b-col>
 				</b-row>
 			</b-container>
