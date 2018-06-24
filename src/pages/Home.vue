@@ -95,6 +95,27 @@
 				</b-row>
 			</b-container>
 		</section>
+		<section class="bg-light">
+			<b-container>
+				<b-row>
+					<b-col xs="12" lg="4">
+						<b-btn size="lg" variant="outline-secondary" block to="/project">
+							<i class="fa fa-object-group"/> Project
+						</b-btn>
+					</b-col>
+					<b-col xs="12" lg="4">
+						<b-btn size="lg" variant="primary" block to="/experience">
+							<i class="fa fa-briefcase"/> Experience
+						</b-btn>
+					</b-col>
+					<b-col xs="12" lg="4">
+						<b-btn size="lg" variant="success" block>
+							<i class="fa fa-download"/> Download CV
+						</b-btn>
+					</b-col>
+				</b-row>
+			</b-container>
+		</section>
 		<!-- <section class="mb-5">
 			<b-container>
 				<b-row class="mb-4">
@@ -268,6 +289,7 @@ export default {
 						'Go',
 						'MongoDB',
 						'Linux & Server',
+						'GIT',
 						'Docker',
 					],
 					title: {
@@ -299,8 +321,9 @@ export default {
 				},
 				series: [
 					{
-						name: 'Years',
-						data: [5, 3, 2, 5.5, 3.5, 2.5, 1.5, 3.5, 5, 2],
+						name: 'Skills',
+						showInLegend: false,
+						data: [5, 3, 2, 5.5, 3.5, 2.5, 1.5, 3.5, 5, 4, 2],
 					},
 				],
 			}
