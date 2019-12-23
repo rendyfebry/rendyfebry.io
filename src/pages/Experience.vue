@@ -4,12 +4,9 @@
 			<b-container>
 				<b-row>
 					<b-col sm="12" lg="5">
-						<h1 class="main-title">
-							Where I have <b>been</b>
-						</h1>
+						<h1 class="main-title">Where I have <b>been</b></h1>
 					</b-col>
-					<b-col sm="12" lg="7">
-					</b-col>
+					<b-col sm="12" lg="7"> </b-col>
 				</b-row>
 			</b-container>
 		</header>
@@ -17,11 +14,30 @@
 			<b-container>
 				<b-col sm="12" lg="10" offset-lg="1">
 					<b-row class="mb-5">
+						<b-col sm="12" lg="3" class="text-center">
+							<img class="img-fluid" src="../assets/images/hooq-logo.png" />
+						</b-col>
+						<b-col sm="12" lg="9">
+							<h4 class="mb-0">
+								Software Engineer - HOOQ Ltd
+							</h4>
+							<p class="text-blue-soft">
+								<small>Aug, 2018 - Now</small>
+							</p>
+							<ul class="listed-item">
+								<li>
+									Develop API with Golang, NodeJS, Docker, AWS, etc
+								</li>
+							</ul>
+						</b-col>
+					</b-row>
+					<hr class="ml-4 mr-4 mb-5" />
+					<b-row class="mb-5">
 						<b-col sm="12" lg="3" order-lg="2" class="text-center">
 							<img
 								class="img-fluid"
 								src="../assets/images/pixel-logo-square.jpg"
-							>
+							/>
 						</b-col>
 						<b-col sm="12" lg="9" order-lg="1">
 							<h4 class="mb-0">
@@ -44,19 +60,19 @@
 									Database and Search with MongoDB, ElasticSearch and SQL
 								</li>
 								<li>
-									Server and Deployment with Docker,
-									Gitlab-CI, Kubernetes, Jenkins, etc
+									Server and Deployment with Docker, Gitlab-CI, Kubernetes,
+									Jenkins, etc
 								</li>
 							</ul>
 						</b-col>
 					</b-row>
-					<hr class="ml-4 mr-4 mb-5"/>
+					<hr class="ml-4 mr-4 mb-5" />
 					<b-row class="mb-5">
 						<b-col sm="12" lg="3" class="text-center">
 							<img
 								class="img-fluid"
 								src="../assets/images/pixel-logo-square.jpg"
-							>
+							/>
 						</b-col>
 						<b-col sm="12" lg="9">
 							<h4 class="mb-0">
@@ -67,8 +83,8 @@
 							</p>
 							<ul class="listed-item">
 								<li>
-									Develop Front-end application with ReactJS,
-									Vanilla JavaScript, and Laravel
+									Develop Front-end application with ReactJS, Vanilla
+									JavaScript, and Laravel
 								</li>
 								<li>
 									Build back-end service with NodeJS & Python
@@ -82,13 +98,13 @@
 							</ul>
 						</b-col>
 					</b-row>
-					<hr class="ml-4 mr-4 mb-5"/>
+					<hr class="ml-4 mr-4 mb-5" />
 					<b-row class="mb-5">
 						<b-col sm="12" lg="3" order-lg="2" class="text-center">
 							<img
 								class="img-fluid mb-3"
 								src="../assets/images/bosung-logo.gif"
-							>
+							/>
 						</b-col>
 						<b-col sm="12" lg="9" order-lg="1">
 							<h4 class="mb-0">
@@ -99,9 +115,9 @@
 							</p>
 							<ul class="listed-item">
 								<li>
-									Develop internal application (ERP) to control
-									our company business that include multiple modules,
-									like: manufacturing, HR and Finance
+									Develop internal application (ERP) to control our company
+									business that include multiple modules, like: manufacturing,
+									HR and Finance
 								</li>
 								<li>
 									Manage on-site servers in multiple location
@@ -115,13 +131,13 @@
 							</ul>
 						</b-col>
 					</b-row>
-					<hr class="ml-4 mr-4 mb-5"/>
+					<hr class="ml-4 mr-4 mb-5" />
 					<b-row>
 						<b-col sm="12" lg="3" class="text-center">
 							<img
 								class="img-fluid mb-3"
 								src="../assets/images/bosung-logo.gif"
-							>
+							/>
 						</b-col>
 						<b-col sm="12" lg="9">
 							<h4 class="mb-0">
@@ -166,7 +182,7 @@
 							to="/project"
 							class="mb-4"
 						>
-							<i class="fa fa-object-group"/> Project
+							<i class="fa fa-object-group" /> Project
 						</b-btn>
 					</b-col>
 					<b-col xs="12" lg="4">
@@ -177,7 +193,7 @@
 							to="/experience"
 							class="mb-4"
 						>
-							<i class="fa fa-briefcase"/> Experience
+							<i class="fa fa-briefcase" /> Experience
 						</b-btn>
 					</b-col>
 					<b-col xs="12" lg="4">
@@ -186,7 +202,7 @@
 							href="/static/cv-rendy.pdf"
 							target="_blank"
 						>
-							<i class="fa fa-download"/> Download CV
+							<i class="fa fa-download" /> Download CV
 						</a>
 					</b-col>
 				</b-row>

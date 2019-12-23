@@ -298,13 +298,11 @@ export default {
 				xAxis: {
 					categories: [
 						'JavaScript',
-						'React',
-						'VueJS',
-						'PHP & SQL',
+						'PHP',
 						'NodeJS',
 						'Python',
 						'Go',
-						'MongoDB',
+						'SQL',
 						'Linux & Server',
 						'GIT',
 						'Docker',
@@ -340,7 +338,7 @@ export default {
 					{
 						name: 'Skills',
 						showInLegend: false,
-						data: [5, 3, 2, 5.5, 3.5, 2.5, 1.5, 3.5, 5, 4, 2],
+						data: [6, 5, 4.5, 2.5, 3.5, 4, 5, 5, 3.5],
 					},
 				],
 			}
