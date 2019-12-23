@@ -10,34 +10,34 @@ import Project from '@/pages/Project'
 Vue.use(Router)
 
 export default new Router({
-  scrollBehavior() {
-    return { x: 0, y: 0 }
-  },
-  routes: [
-    {
-      path: '/',
-      component: Home,
-    },
-    {
-      path: '/cv',
-      component: CV,
-    },
-    {
-      path: '/contact',
-      component: Contact,
-    },
-    {
-      path: '/experience',
-      component: Experience,
-    },
-    {
-      path: '/project',
-      component: Project,
-    },
-    {
-      path: '*',
-      component: PageNotFound,
-    },
-  ],
-  mode: 'history',
+	scrollBehavior() {
+		return { x: 0, y: 0 }
+	},
+	routes: [
+		{
+			path: '/',
+			component: Home,
+		},
+		{
+			path: '/cv',
+			component: CV,
+		},
+		{
+			path: '/contact',
+			component: Contact,
+		},
+		{
+			path: '/experience',
+			component: Experience,
+		},
+		{
+			path: '/project',
+			component: Project,
+		},
+		{
+			path: '*',
+			component: PageNotFound,
+		},
+	],
+	mode: 'history',
 })

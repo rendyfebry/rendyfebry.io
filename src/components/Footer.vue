@@ -6,8 +6,8 @@
 					<b-col class="text-center">
 						<h3>Let's build things together and make impact.</h3>
 						<p>
-							Thousands of developers are already trusting and
-							using Strapi to build their APIs.
+							Thousands of developers are already trusting and using Strapi to
+							build their APIs.
 						</p>
 					</b-col>
 				</b-row>
@@ -30,12 +30,19 @@
 										</b-link>
 									</li>
 									<li>
-										<b-link href="https://www.linkedin.com/in/rendyfebry/" target="_blank">
-											<i class="fa fa-linkedin" /> &nbsp; linkedin.com/in/rendyfebry
+										<b-link
+											href="https://www.linkedin.com/in/rendyfebry/"
+											target="_blank"
+										>
+											<i class="fa fa-linkedin" /> &nbsp;
+											linkedin.com/in/rendyfebry
 										</b-link>
 									</li>
 									<li>
-										<b-link href="https://github.com/rendyfebry" target="_blank">
+										<b-link
+											href="https://github.com/rendyfebry"
+											target="_blank"
+										>
 											<i class="fa fa-github" /> &nbsp; github.com/rendyfebry
 										</b-link>
 									</li>

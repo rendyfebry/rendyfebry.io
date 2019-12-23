@@ -6,14 +6,13 @@
 					<b-col sm="12" lg="6">
 						<h1 class="main-title">
 							&lt;Hello&gt;<br />
-							&nbsp;&nbsp;&nbsp;&nbsp;
-							My name is <b>Rendy Febry</b>,
+							&nbsp;&nbsp;&nbsp;&nbsp; My name is
+							<b>Rendy Febry</b>,
 							<br />
 							&lt;/Hello&gt;
 						</h1>
 					</b-col>
-					<b-col sm="12" lg="7">
-					</b-col>
+					<b-col sm="12" lg="7"> </b-col>
 				</b-row>
 			</b-container>
 		</header>
@@ -23,8 +22,10 @@
 					<b-col col lg="8" offset-lg="2" class="pt-4 pb-4 text-center">
 						<h3>Nice to meet you</h3>
 						<p class="mb-0">
-							My name is Rendy Febry, 27 years old. I am a Fullstack Software Engineer, based on Bandung, Indonesia.
-							I have more than 6 years experience in Software Development, and almost 10 years in IT industry.
+							My name is Rendy Febry, 27 years old. I am a Fullstack Software
+							Engineer, based on Bandung, Indonesia. I have more than 6 years
+							experience in Software Development, and almost 10 years in IT
+							industry.
 						</p>
 					</b-col>
 				</b-row>
@@ -63,8 +64,8 @@
 							Others
 						</h4>
 						<p>
-							MongoDB, MySQL, ElasticSearch, Docker, Kubernetes,
-							Gitlab CI, ELK Stack, etc.
+							MongoDB, MySQL, ElasticSearch, Docker, Kubernetes, Gitlab CI, ELK
+							Stack, etc.
 						</p>
 					</b-col>
 				</b-row>
@@ -106,7 +107,7 @@
 							to="/project"
 							class="mb-4"
 						>
-							<i class="fa fa-object-group"/> Project
+							<i class="fa fa-object-group" /> Project
 						</b-btn>
 					</b-col>
 					<b-col xs="12" lg="4">
@@ -117,7 +118,7 @@
 							to="/experience"
 							class="mb-4"
 						>
-							<i class="fa fa-briefcase"/> Experience
+							<i class="fa fa-briefcase" /> Experience
 						</b-btn>
 					</b-col>
 					<b-col xs="12" lg="4">
@@ -126,7 +127,7 @@
 							href="/static/cv-rendy.pdf"
 							target="_blank"
 						>
-							<i class="fa fa-download"/> Download CV
+							<i class="fa fa-download" /> Download CV
 						</a>
 					</b-col>
 				</b-row>

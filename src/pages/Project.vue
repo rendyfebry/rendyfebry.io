@@ -4,12 +4,9 @@
 			<b-container>
 				<b-row>
 					<b-col sm="12" lg="5">
-						<h1 class="main-title">
-							What I have <b>done</b>
-						</h1>
+						<h1 class="main-title">What I have <b>done</b></h1>
 					</b-col>
-					<b-col sm="12" lg="7">
-					</b-col>
+					<b-col sm="12" lg="7"> </b-col>
 				</b-row>
 			</b-container>
 		</header>
@@ -21,7 +18,7 @@
 							<img
 								class="img-fluid"
 								src="../assets/images/project-managix-1.png"
-							>
+							/>
 						</b-col>
 					</b-row>
 					<b-row class="mb-5">
@@ -38,8 +35,10 @@
 								<small>Pixel House Studio</small>
 							</p>
 							<p>
-								Managix is aim to become the best and most complete Facebook Ads companion app.
-								With Managix user can easily create, manage and optimize their ads more efficiently. Currently on process to become official Facebook Marketing Partner.
+								Managix is aim to become the best and most complete Facebook Ads
+								companion app. With Managix user can easily create, manage and
+								optimize their ads more efficiently. Currently on process to
+								become official Facebook Marketing Partner.
 							</p>
 							<ul class="listed-item">
 								<li>
@@ -49,18 +48,19 @@
 									ReactJS, VueJS, & Laravel for the front end side
 								</li>
 								<li>
-									Other technology that worth to mention is MongoDB, Docker, GitlabCI & ELK Stack
+									Other technology that worth to mention is MongoDB, Docker,
+									GitlabCI & ELK Stack
 								</li>
 							</ul>
 						</b-col>
 					</b-row>
-					<hr class="ml-4 mr-4 mb-5"/>
+					<hr class="ml-4 mr-4 mb-5" />
 					<b-row class="mb-5">
 						<b-col sm="12" lg="8" offset-lg="2">
 							<img
 								class="img-fluid"
 								src="../assets/images/project-selabsuite.jpg"
-							>
+							/>
 						</b-col>
 					</b-row>
 					<b-row class="mb-5">
@@ -77,8 +77,9 @@
 								<small>Pixel House Studio</small>
 							</p>
 							<p>
-								SELabSuite can help user to optimize their SEO strategy. Give SEO Optimization sugestion,
-								monitor their website position on Google SERP page, keyword tracking agains competitor, etc.
+								SELabSuite can help user to optimize their SEO strategy. Give
+								SEO Optimization sugestion, monitor their website position on
+								Google SERP page, keyword tracking agains competitor, etc.
 							</p>
 							<ul class="listed-item">
 								<li>
@@ -93,13 +94,13 @@
 							</ul>
 						</b-col>
 					</b-row>
-					<hr class="ml-4 mr-4 mb-5"/>
+					<hr class="ml-4 mr-4 mb-5" />
 					<b-row class="mb-5">
 						<b-col sm="12" lg="3" order-lg="2" class="text-center">
 							<img
 								class="img-fluid mb-3"
 								src="../assets/images/bosung-logo.gif"
-							>
+							/>
 						</b-col>
 						<b-col sm="12" lg="9" order-lg="1">
 							<h4 class="mb-0">
@@ -112,9 +113,12 @@
 								<small>PT Bosung Indonesia</small>
 							</p>
 							<p>
-								At the begining the HR Departement only use Excel to manage their 3000 employees data,
-								the salary also need to be calculated manually with excel formula & template. This condition challenge me to build a system that can manage all HR bussiness,
-								including Employee Management, Salary Calculation, Overtime, Attendance, etc.
+								At the begining the HR Departement only use Excel to manage
+								their 3000 employees data, the salary also need to be calculated
+								manually with excel formula & template. This condition challenge
+								me to build a system that can manage all HR bussiness, including
+								Employee Management, Salary Calculation, Overtime, Attendance,
+								etc.
 							</p>
 							<ul class="listed-item">
 								<li>
@@ -123,13 +127,13 @@
 							</ul>
 						</b-col>
 					</b-row>
-					<hr class="ml-4 mr-4 mb-5"/>
+					<hr class="ml-4 mr-4 mb-5" />
 					<b-row class="mb-5">
 						<b-col sm="12" lg="3" class="text-center">
 							<img
 								class="img-fluid mb-3"
 								src="../assets/images/bosung-logo.gif"
-							>
+							/>
 						</b-col>
 						<b-col sm="12" lg="9">
 							<h4 class="mb-0">
@@ -142,7 +146,8 @@
 								<small>PT Bosung Indonesia</small>
 							</p>
 							<p>
-								I migrate the old legacy ERP from MS FoxPro base to more modern stack. The system have multiple modules such as Raw Material,
+								I migrate the old legacy ERP from MS FoxPro base to more modern
+								stack. The system have multiple modules such as Raw Material,
 								Production, Delivery Orders, Invoices, etc.
 							</p>
 							<ul class="listed-item">
@@ -152,13 +157,13 @@
 							</ul>
 						</b-col>
 					</b-row>
-					<hr class="ml-4 mr-4 mb-5"/>
+					<hr class="ml-4 mr-4 mb-5" />
 					<b-row class="mb-5">
 						<b-col sm="12" lg="8" offset-lg="2">
 							<img
 								class="img-fluid"
 								src="../assets/images/project-mdm-machine.png"
-							>
+							/>
 						</b-col>
 					</b-row>
 					<b-row class="mb-5">
@@ -187,13 +192,13 @@
 							</ul>
 						</b-col>
 					</b-row>
-					<hr class="ml-4 mr-4 mb-5"/>
+					<hr class="ml-4 mr-4 mb-5" />
 					<b-row class="mb-5">
 						<b-col sm="12" lg="8" offset-lg="2">
 							<img
 								class="img-fluid"
 								src="../assets/images/project-on-show-app.png"
-							>
+							/>
 						</b-col>
 					</b-row>
 					<b-row class="mb-5">
@@ -210,7 +215,8 @@
 								<small>Freelance Project</small>
 							</p>
 							<p>
-								On Show App is a Real Estate listing application from South Africa.
+								On Show App is a Real Estate listing application from South
+								Africa.
 							</p>
 							<ul class="listed-item">
 								<li>
@@ -219,13 +225,13 @@
 							</ul>
 						</b-col>
 					</b-row>
-					<hr class="ml-4 mr-4 mb-5"/>
+					<hr class="ml-4 mr-4 mb-5" />
 					<b-row class="mb-5">
 						<b-col sm="12" lg="8" offset-lg="2">
 							<img
 								class="img-fluid"
 								src="../assets/images/project-honda-indonesia.png"
-							>
+							/>
 						</b-col>
 					</b-row>
 					<b-row class="mb-5">
@@ -251,13 +257,10 @@
 							</ul>
 						</b-col>
 					</b-row>
-					<hr class="ml-4 mr-4 mb-5"/>
+					<hr class="ml-4 mr-4 mb-5" />
 					<b-row class="mb-5">
 						<b-col sm="12" lg="8" offset-lg="2">
-							<img
-								class="img-fluid"
-								src="../assets/images/project-cabz.jpg"
-							>
+							<img class="img-fluid" src="../assets/images/project-cabz.jpg" />
 						</b-col>
 					</b-row>
 					<b-row class="mb-5">
@@ -295,7 +298,7 @@
 							to="/project"
 							class="mb-4"
 						>
-							<i class="fa fa-object-group"/> Project
+							<i class="fa fa-object-group" /> Project
 						</b-btn>
 					</b-col>
 					<b-col xs="12" lg="4">
@@ -306,7 +309,7 @@
 							to="/experience"
 							class="mb-4"
 						>
-							<i class="fa fa-briefcase"/> Experience
+							<i class="fa fa-briefcase" /> Experience
 						</b-btn>
 					</b-col>
 					<b-col xs="12" lg="4">
@@ -315,7 +318,7 @@
 							href="/static/cv-rendy.pdf"
 							target="_blank"
 						>
-							<i class="fa fa-download"/> Download CV
+							<i class="fa fa-download" /> Download CV
 						</a>
 					</b-col>
 				</b-row>
