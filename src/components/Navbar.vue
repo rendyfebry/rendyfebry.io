@@ -9,11 +9,14 @@
 
 			<b-collapse is-nav id="nav_collapse">
 				<b-navbar-nav class="ml-auto">
-					<b-nav-item to="/project">
-						Project
+					<b-nav-item to="/">
+						Home
 					</b-nav-item>
 					<b-nav-item to="/experience">
 						Experience
+					</b-nav-item>
+					<b-nav-item to="/project">
+						Project
 					</b-nav-item>
 					<b-nav-item to="/contact">
 						Contact

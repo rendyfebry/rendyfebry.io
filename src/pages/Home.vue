@@ -102,23 +102,23 @@
 					<b-col xs="12" lg="4">
 						<b-btn
 							size="lg"
-							variant="outline-secondary"
-							block
-							to="/project"
-							class="mb-4"
-						>
-							<i class="fa fa-object-group" /> Project
-						</b-btn>
-					</b-col>
-					<b-col xs="12" lg="4">
-						<b-btn
-							size="lg"
 							variant="primary"
 							block
 							to="/experience"
 							class="mb-4"
 						>
 							<i class="fa fa-briefcase" /> Experience
+						</b-btn>
+					</b-col>
+					<b-col xs="12" lg="4">
+						<b-btn
+							size="lg"
+							variant="outline-secondary"
+							block
+							to="/project"
+							class="mb-4"
+						>
+							<i class="fa fa-object-group" /> Project
 						</b-btn>
 					</b-col>
 					<b-col xs="12" lg="4">
@@ -306,6 +306,7 @@ export default {
 						'Linux & Server',
 						'GIT',
 						'Docker',
+						'AWS',
 					],
 					title: {
 						text: null,
@@ -338,7 +339,7 @@ export default {
 					{
 						name: 'Skills',
 						showInLegend: false,
-						data: [6, 5, 4.5, 2.5, 3.5, 4, 5, 5, 3.5],
+						data: [6, 5, 4.5, 2, 3, 4, 5, 5, 3.5, 3.5],
 					},
 				],
 			}
