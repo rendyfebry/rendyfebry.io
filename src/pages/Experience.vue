@@ -22,7 +22,7 @@
 								Software Engineer - HOOQ Ltd
 							</h4>
 							<p class="text-blue-soft">
-								<small>Aug, 2018 - Now</small>
+								<small>Aug, 2018 - Present</small>
 							</p>
 							<ul class="listed-item">
 								<li>
@@ -44,7 +44,7 @@
 								Head of Software Engineering - Pixel House Studio
 							</h4>
 							<p class="text-blue-soft">
-								<small>Nov, 2017 - Present</small>
+								<small>Nov, 2017 - Aug, 2018</small>
 							</p>
 							<ul class="listed-item">
 								<li>
