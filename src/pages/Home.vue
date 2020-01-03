@@ -3,7 +3,7 @@
 		<header>
 			<b-container>
 				<b-row>
-					<b-col sm="12" lg="6">
+					<b-col sm="12" lg="7" class="main-title-wrapper">
 						<h1 class="main-title">
 							&lt;Hello&gt;<br />
 							&nbsp;&nbsp;&nbsp;&nbsp; My name is
@@ -12,7 +12,12 @@
 							&lt;/Hello&gt;
 						</h1>
 					</b-col>
-					<b-col sm="12" lg="7"> </b-col>
+					<b-col sm="12" lg="5" class="drawing-wrapper">
+						<img
+							class="img-fluid drawing"
+							src="../assets/images/undraw_dev_productivity_umsq.svg"
+						/>
+					</b-col>
 				</b-row>
 			</b-container>
 		</header>
@@ -360,6 +365,23 @@ header {
 	color: #fff;
 	display: flex;
 	align-items: center;
+}
+
+.main-title-wrapper {
+	display: flex;
+	align-items: center;
+}
+
+.drawing-wrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+@media screen and (max-width: 767px) {
+	header .drawing {
+		display: none;
+	}
 }
 
 h1 {

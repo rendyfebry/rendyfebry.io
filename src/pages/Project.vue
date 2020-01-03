@@ -3,10 +3,15 @@
 		<header>
 			<b-container>
 				<b-row>
-					<b-col sm="12" lg="5">
+					<b-col sm="12" lg="8" class="main-title-wrapper">
 						<h1 class="main-title">What I have <b>done</b></h1>
 					</b-col>
-					<b-col sm="12" lg="7"> </b-col>
+					<b-col sm="12" lg="4" class="drawing-wrapper">
+						<img
+							class="img-fluid drawing"
+							src="../assets/images/undraw_code_thinking_1jeh.svg"
+						/>
+					</b-col>
 				</b-row>
 			</b-container>
 		</header>
@@ -340,6 +345,23 @@ header {
 	color: #fff;
 	display: flex;
 	align-items: center;
+}
+
+.main-title-wrapper {
+	display: flex;
+	align-items: center;
+}
+
+.drawing-wrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+@media screen and (max-width: 767px) {
+	header .drawing {
+		display: none;
+	}
 }
 
 h1 {

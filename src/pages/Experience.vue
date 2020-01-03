@@ -3,10 +3,15 @@
 		<header>
 			<b-container>
 				<b-row>
-					<b-col sm="12" lg="5">
+					<b-col sm="12" lg="9" class="main-title-wrapper">
 						<h1 class="main-title">Where I have <b>been</b></h1>
 					</b-col>
-					<b-col sm="12" lg="7"> </b-col>
+					<b-col sm="12" lg="3" class="drawing-wrapper">
+						<img
+							class="img-fluid drawing"
+							src="../assets/images/undraw_project_completed_w0oq.svg"
+						/>
+					</b-col>
 				</b-row>
 			</b-container>
 		</header>
@@ -224,6 +229,23 @@ header {
 	color: #fff;
 	display: flex;
 	align-items: center;
+}
+
+.main-title-wrapper {
+	display: flex;
+	align-items: center;
+}
+
+.drawing-wrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+@media screen and (max-width: 767px) {
+	header .drawing {
+		display: none;
+	}
 }
 
 h1 {

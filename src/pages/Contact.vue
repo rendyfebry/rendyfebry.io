@@ -3,12 +3,14 @@
 		<header>
 			<b-container>
 				<b-row>
-					<b-col sm="12" lg="5">
-						<h1 class="main-title">
-							Get in <b>touch</b>?
-						</h1>
+					<b-col sm="12" lg="9" class="main-title-wrapper">
+						<h1 class="main-title">Get in <b>touch</b>?</h1>
 					</b-col>
-					<b-col sm="12" lg="7">
+					<b-col sm="12" lg="3" class="drawing-wrapper">
+						<img
+							class="img-fluid drawing"
+							src="../assets/images/undraw_manage_chats_ylx0.svg"
+						/>
 					</b-col>
 				</b-row>
 			</b-container>
@@ -35,11 +37,7 @@
 							enctype="multipart/form-data"
 							method="POST"
 						>
-							<b-form-group
-								id="nameGroup"
-								label="Name"
-								label-for="name"
-							>
+							<b-form-group id="nameGroup" label="Name" label-for="name">
 								<b-form-input
 									id="name"
 									name="name"
@@ -93,7 +91,7 @@
 							to="/project"
 							class="mb-4"
 						>
-							<i class="fa fa-object-group"/> Project
+							<i class="fa fa-object-group" /> Project
 						</b-btn>
 					</b-col>
 					<b-col xs="12" lg="4">
@@ -104,7 +102,7 @@
 							to="/experience"
 							class="mb-4"
 						>
-							<i class="fa fa-briefcase"/> Experience
+							<i class="fa fa-briefcase" /> Experience
 						</b-btn>
 					</b-col>
 					<b-col xs="12" lg="4">
@@ -113,7 +111,7 @@
 							href="/static/cv-rendy.pdf"
 							target="_blank"
 						>
-							<i class="fa fa-download"/> Download CV
+							<i class="fa fa-download" /> Download CV
 						</a>
 					</b-col>
 				</b-row>
@@ -141,6 +139,23 @@ header {
 	color: #fff;
 	display: flex;
 	align-items: center;
+}
+
+.main-title-wrapper {
+	display: flex;
+	align-items: center;
+}
+
+.drawing-wrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+@media screen and (max-width: 767px) {
+	header .drawing {
+		display: none;
+	}
 }
 
 h1 {
