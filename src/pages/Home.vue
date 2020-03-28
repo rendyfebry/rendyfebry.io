@@ -27,7 +27,7 @@
 					<b-col col lg="8" offset-lg="2" class="pt-4 pb-4 text-center">
 						<h3>Nice to meet you</h3>
 						<p class="mb-0">
-							My name is Rendy Febry, 28 years old. I am a Fullstack Software
+							My name is Rendy Febry, 29 years old. I am a Fullstack Software
 							Engineer, based on Bandung, Indonesia. I have more than 6 years
 							experience in Software Development, and almost 10 years in IT
 							industry.
@@ -41,17 +41,6 @@
 				<b-row>
 					<b-col sm="12" lg="4">
 						<div class="text-center skill-icon">
-							<i class="fa fa-code " />
-						</div>
-						<h4 class="text-center">
-							Front End
-						</h4>
-						<p>
-							JavaScript, ReactJS, VueJS, JQuery, HTML, CSS, etc.
-						</p>
-					</b-col>
-					<b-col sm="12" lg="4">
-						<div class="text-center skill-icon">
 							<i class="fa fa-cog " />
 						</div>
 						<h4 class="text-center">
@@ -63,14 +52,25 @@
 					</b-col>
 					<b-col sm="12" lg="4">
 						<div class="text-center skill-icon">
+							<i class="fa fa-code " />
+						</div>
+						<h4 class="text-center">
+							Front End
+						</h4>
+						<p>
+							JavaScript, ReactJS, VueJS, JQuery, HTML, CSS, etc.
+						</p>
+					</b-col>
+					<b-col sm="12" lg="4">
+						<div class="text-center skill-icon">
 							<i class="fa fa-database " />
 						</div>
 						<h4 class="text-center">
 							Others
 						</h4>
 						<p>
-							MongoDB, MySQL, ElasticSearch, Docker, Kubernetes, Gitlab CI, ELK
-							Stack, etc.
+							AWS, MySQL, MongoDB, ElasticSearch, Docker, Kubernetes, Gitlab CI,
+							Jenkins, ELK Stack, etc.
 						</p>
 					</b-col>
 				</b-row>

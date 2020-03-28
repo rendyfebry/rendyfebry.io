@@ -18,7 +18,7 @@
 				<b-row>
 					<b-col sm="12" lg="3">
 						<h3>RENDYFEBRY.IO</h3>
-						<p>Full Stack Software Engineer</p>
+						<p>Software Engineer</p>
 					</b-col>
 					<b-col sm="12" lg="9">
 						<b-row>
