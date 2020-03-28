@@ -20,6 +20,42 @@
 				<b-col sm="12" lg="10" offset-lg="1">
 					<b-row class="mb-5">
 						<b-col sm="12" lg="8" offset-lg="2">
+							<img class="img-fluid" src="../assets/images/project-hooq.png" />
+						</b-col>
+					</b-row>
+					<b-row class="mb-5">
+						<b-col col lg="10" offset-lg="1">
+							<h4 class="mb-0">
+								<a href="https://hooq.tv/" target="_blank">
+									<small>
+										<i class="fa fa-link" />
+									</small>
+								</a>
+								HOOQ
+							</h4>
+							<p class="text-blue-soft">
+								<small>HOOQ Ltd</small>
+							</p>
+							<p>
+								Built in Asia for Asia, HOOQ is Asia's first premium
+								video-on-demand service to launch across the region.
+							</p>
+							<ul class="listed-item">
+								<li>
+									Adaptive Streaming Video
+								</li>
+								<li>
+									Golang with Go-Kit and Echo
+								</li>
+								<li>
+									Various AWS Stack
+								</li>
+							</ul>
+						</b-col>
+					</b-row>
+					<hr class="ml-4 mr-4 mb-5" />
+					<b-row class="mb-5">
+						<b-col sm="12" lg="8" offset-lg="2">
 							<img
 								class="img-fluid"
 								src="../assets/images/project-managix-1.png"
