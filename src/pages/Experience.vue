@@ -29,10 +29,18 @@
 							<p class="text-blue-soft">
 								<small>Aug, 2018 - Present</small>
 							</p>
+							<p>
+								At HOOQ, I works in API Team. We responsible to build and manage
+								some of the core services on HOOQ system Including but not
+								limited to:
+							</p>
 							<ul class="listed-item">
-								<li>
-									Develop API with Golang, NodeJS, Docker, AWS, etc
-								</li>
+								<li>Playback API</li>
+								<li>User management API</li>
+								<li>Partner Integration API</li>
+								<li>User Eligibility Checker</li>
+								<li>Various AWS Stack</li>
+								<li>Adaptive Video Streaming</li>
 							</ul>
 						</b-col>
 					</b-row>
@@ -56,17 +64,7 @@
 									Lead our Software Engineering Team
 								</li>
 								<li>
-									Front-end with ReactJS, VueJS, and Vanilla JavaScript
-								</li>
-								<li>
-									Back-end with Python, NodeJS and Go
-								</li>
-								<li>
-									Database and Search with MongoDB, ElasticSearch and SQL
-								</li>
-								<li>
-									Server and Deployment with Docker, Gitlab-CI, Kubernetes,
-									Jenkins, etc
+									Hiring Primising Talent
 								</li>
 							</ul>
 						</b-col>
@@ -92,13 +90,20 @@
 									JavaScript, and Laravel
 								</li>
 								<li>
-									Build back-end service with NodeJS & Python
+									Build back-end service with Python, NodeJS and Go
 								</li>
 								<li>
-									Database and Search with MongoDB
+									Front-end with ReactJS, VueJS, and Vanilla JavaScript
+								</li>
+								<li>
+									Database and Search with MongoDB, ElasticSearch and SQL
 								</li>
 								<li>
 									CI/CD with Jenkins
+								</li>
+								<li>
+									Server and Deployment with Docker, Gitlab-CI, Kubernetes,
+									Jenkins, etc
 								</li>
 							</ul>
 						</b-col>
