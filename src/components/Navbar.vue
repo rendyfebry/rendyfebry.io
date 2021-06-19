@@ -2,7 +2,7 @@
 	<b-navbar toggleable="md" type="dark" variant="info" class="home-navbar">
 		<b-container>
 			<b-navbar-brand to="/">
-				RENDYFEBRY.IO
+				RENDYFEBRY
 			</b-navbar-brand>
 
 			<b-navbar-toggle target="nav_collapse" />
