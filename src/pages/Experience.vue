@@ -34,22 +34,25 @@
 							</p>
 							<p>
 								Part of Coupang Play launch team, focusing on Infra Engineering
-								also part of Backend Team that manage the core APIs to serve
+								also part of Backend Team that manages the core APIs to serve
 								millions of users.
 							</p>
 							<ul class="listed-item">
 								<li>
-									Setup and maintain infrastucture for various services with IaC
-									approach
+									Setup and maintain infrastructure for various services with
+									IaC approach
 								</li>
 								<li>
 									Create CI/CD Pipeline to help engineers to deploy their
 									services more consistent, fast and secure
 								</li>
 								<li>
-									Setup autoscalling mechanism to handle traffic dynamicly
+									Setup autoscaling mechanism to handle traffic dynamically
 								</li>
-								<li>Ensure redudancy and availability across the system</li>
+								<li>
+									Ensure redundancy, resiliency and availability across the
+									system
+								</li>
 								<li>
 									Design and code various services with Backend Engineering Team
 								</li>
@@ -72,10 +75,10 @@
 								<small>May, 2020 - Aug, 2020</small>
 							</p>
 							<p>
-								During my shortime at WarungPintar I was assigned on the Supply
-								and Distribution Tribe who own multiple services that aim to
-								help our worker on the fullfillment center to do their job more
-								efficiently.
+								During my short time at WarungPintar I was assigned to the
+								Supply and Distribution Tribe who own multiple services that aim
+								to help our worker on the fullfillment center to do their job
+								more efficiently.
 							</p>
 						</b-col>
 					</b-row>
