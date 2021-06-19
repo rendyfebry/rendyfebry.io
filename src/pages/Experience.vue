@@ -34,19 +34,25 @@
 							</p>
 							<p>
 								Part of Coupang Play launch team, focusing on Infra Engineering
-								also part of Backend Team that manage the core API to serve
+								also part of Backend Team that manage the core APIs to serve
 								millions of users.
 							</p>
 							<ul class="listed-item">
-								<li>Setup and maintain infrastucture for various services</li>
 								<li>
-									Create CI/CD Pipeline to help our team to deploy their
-									services.
+									Setup and maintain infrastucture for various services with IaC
+									approach
 								</li>
 								<li>
-									Setup autoscalling mechanism to support traffic dynamicly.
+									Create CI/CD Pipeline to help engineers to deploy their
+									services more consistent, fast and secure
+								</li>
+								<li>
+									Setup autoscalling mechanism to handle traffic dynamicly
 								</li>
 								<li>Ensure redudancy and availability across the system</li>
+								<li>
+									Design and code various services with Backend Engineering Team
+								</li>
 							</ul>
 						</b-col>
 					</b-row>
@@ -67,8 +73,9 @@
 							</p>
 							<p>
 								During my shortime at WarungPintar I was assigned on the Supply
-								and Distribution Tribe who own multiple services that aim our
-								worker on the fullfillment center.
+								and Distribution Tribe who own multiple services that aim to
+								help our worker on the fullfillment center to do their job more
+								efficiently.
 							</p>
 						</b-col>
 					</b-row>
@@ -85,9 +92,9 @@
 								<small>Aug, 2018 - May, 2020</small>
 							</p>
 							<p>
-								At HOOQ, I works in API Team. We responsible to build and manage
-								some of the core services on HOOQ system Including but not
-								limited to:
+								At HOOQ, I works in API Team that responsible to build and
+								manage some of the core services on HOOQ system Including but
+								not limited to:
 							</p>
 							<ul class="listed-item">
 								<li>Playback API</li>
