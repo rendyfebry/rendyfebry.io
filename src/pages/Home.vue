@@ -27,7 +27,7 @@
 					<b-col col lg="8" offset-lg="2" class="pt-4 pb-4 text-center">
 						<h3>Nice to meet you</h3>
 						<p class="mb-0">
-							My name is Rendy Febry, 29 years old. I am a Fullstack Software
+							My name is Rendy Febry, 30 years old. I am a Fullstack Software
 							Engineer, based on Bandung, Indonesia. I have more than 6 years
 							experience in Software Development, and almost 10 years in IT
 							industry.
@@ -47,7 +47,7 @@
 							Back End
 						</h4>
 						<p>
-							NodeJS, Python, GoLang, ExpressJS, Flask, PHP, Laravel, etc.
+							GoLang, NodeJS, Python, ExpressJS, Flask, PHP, Laravel, etc.
 						</p>
 					</b-col>
 					<b-col sm="12" lg="4">
@@ -69,7 +69,7 @@
 							Others
 						</h4>
 						<p>
-							AWS, MySQL, MongoDB, ElasticSearch, Docker, Kubernetes, Gitlab CI,
+							AWS, GCP, MySQL, MongoDB, ElasticSearch, Docker, ECS, Kubernetes,
 							Jenkins, ELK Stack, etc.
 						</p>
 					</b-col>
@@ -302,16 +302,14 @@ export default {
 				},
 				xAxis: {
 					categories: [
-						'JavaScript',
-						'PHP',
-						'NodeJS',
+						'JavaScript/NodeJS',
+						'Golang',
 						'Python',
-						'Go',
+						'Java',
 						'SQL',
-						'Linux & Server',
-						'GIT',
 						'Docker',
 						'AWS',
+						'GIT',
 					],
 					title: {
 						text: null,
@@ -344,7 +342,7 @@ export default {
 					{
 						name: 'Skills',
 						showInLegend: false,
-						data: [6, 5, 4.5, 2, 3, 4, 5, 5, 3.5, 3.5],
+						data: [6, 4, 3, 1.5, 5, 4, 4.5, 5],
 					},
 				],
 			}

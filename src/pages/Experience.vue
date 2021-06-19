@@ -19,15 +19,70 @@
 			<b-container>
 				<b-col sm="12" lg="10" offset-lg="1">
 					<b-row class="mb-5">
-						<b-col sm="12" lg="3" class="text-center">
+						<b-col sm="12" lg="2" class="text-center">
+							<img
+								class="img-fluid"
+								src="../assets/images/coupang-logo-vector.svg"
+							/>
+						</b-col>
+						<b-col sm="12" lg="10">
+							<h4 class="mb-0">
+								Sr. Software Engineer - Coupang
+							</h4>
+							<p class="text-blue-soft">
+								<small>Aug, 2020 - Present</small>
+							</p>
+							<p>
+								Part of Coupang Play launch team, focusing on Infra Engineering
+								also part of Backend Team that manage the core API to serve
+								millions of users.
+							</p>
+							<ul class="listed-item">
+								<li>Setup and maintain infrastucture for various services</li>
+								<li>
+									Create CI/CD Pipeline to help our team to deploy their
+									services.
+								</li>
+								<li>
+									Setup autoscalling mechanism to support traffic dynamicly.
+								</li>
+								<li>Ensure redudancy and availability across the system</li>
+							</ul>
+						</b-col>
+					</b-row>
+					<hr class="ml-4 mr-4 mb-5" />
+					<b-row class="mb-5">
+						<b-col sm="12" lg="2" class="text-center">
+							<img
+								class="img-fluid"
+								src="../assets/images/warungpintar_logo.png"
+							/>
+						</b-col>
+						<b-col sm="12" lg="10">
+							<h4 class="mb-0">
+								Software Engineer - WarungPintar
+							</h4>
+							<p class="text-blue-soft">
+								<small>May, 2020 - Aug, 2020</small>
+							</p>
+							<p>
+								During my shortime at WarungPintar I was assigned on the Supply
+								and Distribution Tribe who own multiple services that aim our
+								worker on the fullfillment center.
+							</p>
+						</b-col>
+					</b-row>
+					<hr class="ml-4 mr-4 mb-5" />
+					<b-row class="mb-5">
+						<b-col sm="12" lg="2" class="text-center">
 							<img class="img-fluid" src="../assets/images/hooq-logo.png" />
 						</b-col>
-						<b-col sm="12" lg="9">
+						<b-col sm="12" lg="10">
 							<h4 class="mb-0">
 								Software Engineer - HOOQ Ltd
 							</h4>
 							<p class="text-blue-soft">
-								<small>Aug, 2018 - Present</small>
+								<small>Aug, 2018 - May, 2020</small>
 							</p>
 							<p>
 								At HOOQ, I works in API Team. We responsible to build and manage
@@ -46,13 +101,13 @@
 					</b-row>
 					<hr class="ml-4 mr-4 mb-5" />
 					<b-row class="mb-5">
-						<b-col sm="12" lg="3" order-lg="2" class="text-center">
+						<b-col sm="12" lg="2" class="text-center">
 							<img
 								class="img-fluid"
 								src="../assets/images/pixel-logo-square.jpg"
 							/>
 						</b-col>
-						<b-col sm="12" lg="9" order-lg="1">
+						<b-col sm="12" lg="10">
 							<h4 class="mb-0">
 								Head of Software Engineering - Pixel House Studio
 							</h4>
@@ -64,20 +119,12 @@
 									Lead our Software Engineering Team
 								</li>
 								<li>
-									Hiring Primising Talent
+									Hiring Engineering Team
 								</li>
 							</ul>
-						</b-col>
-					</b-row>
-					<hr class="ml-4 mr-4 mb-5" />
-					<b-row class="mb-5">
-						<b-col sm="12" lg="3" class="text-center">
-							<img
-								class="img-fluid"
-								src="../assets/images/pixel-logo-square.jpg"
-							/>
-						</b-col>
-						<b-col sm="12" lg="9">
+
+							<br />
+
 							<h4 class="mb-0">
 								Senior Software Engineer - Pixel House Studio
 							</h4>
@@ -110,13 +157,13 @@
 					</b-row>
 					<hr class="ml-4 mr-4 mb-5" />
 					<b-row class="mb-5">
-						<b-col sm="12" lg="3" order-lg="2" class="text-center">
+						<b-col sm="12" lg="2" class="text-center">
 							<img
 								class="img-fluid mb-3"
 								src="../assets/images/bosung-logo.gif"
 							/>
 						</b-col>
-						<b-col sm="12" lg="9" order-lg="1">
+						<b-col sm="12" lg="10">
 							<h4 class="mb-0">
 								Software Developer - PT Bosung Indonesia
 							</h4>
@@ -139,17 +186,9 @@
 									Build better more secure network (LAN) for our office
 								</li>
 							</ul>
-						</b-col>
-					</b-row>
-					<hr class="ml-4 mr-4 mb-5" />
-					<b-row>
-						<b-col sm="12" lg="3" class="text-center">
-							<img
-								class="img-fluid mb-3"
-								src="../assets/images/bosung-logo.gif"
-							/>
-						</b-col>
-						<b-col sm="12" lg="9">
+
+							<br />
+
 							<h4 class="mb-0">
 								IT Technician - PT Bosung Indonesia
 							</h4>
