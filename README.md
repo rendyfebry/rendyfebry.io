@@ -1,10 +1,10 @@
-# cees.id
+# rendyfebry.io
 
-> CS Management System
+> Personal Website
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
