@@ -33,11 +33,15 @@
 								<small>Aug, 2020 - Present</small>
 							</p>
 							<p>
-								Part of Coupang Play launch team, focusing on Infra Engineering
-								also part of Backend Team that manages the core APIs to serve
-								millions of users.
+								Part of Coupang Play launch team, focusing on Backend Chapter
+								that owns the core APIs to serve millions of users, also build
+								and maintain the infrastructure for them.
 							</p>
 							<ul class="listed-item">
+								<li>
+									Design, Code, and Maintain various services with Backend
+									Engineering Team
+								</li>
 								<li>
 									Setup and maintain infrastructure for various services with
 									IaC approach
@@ -47,16 +51,15 @@
 									services more consistent, fast and secure
 								</li>
 								<li>
-									Setup autoscaling mechanism to handle traffic dynamically
-								</li>
-								<li>
-									Ensure redundancy, resiliency and availability across the
+									Ensure redundancy, resiliency, and availability across the
 									system
 								</li>
-								<li>
-									Design and code various services with Backend Engineering Team
-								</li>
 							</ul>
+							<br />
+							<p>
+								Tech Stack: Golang, Postgres, Redis, Docker, ECS Fargate, SQS,
+								Lambda, Akamai, etc
+							</p>
 						</b-col>
 					</b-row>
 					<hr class="ml-4 mr-4 mb-5" />
@@ -80,6 +83,7 @@
 								to help our worker on the fullfillment center to do their job
 								more efficiently.
 							</p>
+							<p>Tech Stack: Golang, SQL, GCP, NATS, etc</p>
 						</b-col>
 					</b-row>
 					<hr class="ml-4 mr-4 mb-5" />
@@ -107,6 +111,8 @@
 								<li>Various AWS Stack</li>
 								<li>Adaptive Video Streaming</li>
 							</ul>
+							<br />
+							<p>Tech Stack: Golang, NodeJS, Postgres, Cloudfront, etc</p>
 						</b-col>
 					</b-row>
 					<hr class="ml-4 mr-4 mb-5" />
@@ -132,6 +138,11 @@
 									Hiring Engineering Team
 								</li>
 							</ul>
+							<br />
+							<p>
+								Tech Stack: Golang, NodeJS, NSQ, ELK Stack, AWS, GCP,
+								Prometheus, etc
+							</p>
 
 							<br />
 
@@ -163,6 +174,11 @@
 									Jenkins, etc
 								</li>
 							</ul>
+							<br />
+							<p>
+								Tech Stack: Golang, NodeJS, NSQ, ELK Stack, AWS, GCP,
+								Prometheus, etc
+							</p>
 						</b-col>
 					</b-row>
 					<hr class="ml-4 mr-4 mb-5" />
@@ -196,6 +212,11 @@
 									Build better more secure network (LAN) for our office
 								</li>
 							</ul>
+							<br />
+							<p>
+								Tech Stack: PHP, NodeJS, React JS, MySQL, VisualStudio, Linux,
+								etc
+							</p>
 
 							<br />
 
