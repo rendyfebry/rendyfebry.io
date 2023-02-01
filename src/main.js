@@ -3,7 +3,7 @@
 import Vue from 'vue'
 import BootstrapVue from 'bootstrap-vue'
 import VueHighcharts from 'vue-highcharts'
-import VueAnalytics from 'vue-analytics';
+import VueAnalytics from 'vue-analytics'
 
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'

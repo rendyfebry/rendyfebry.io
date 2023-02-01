@@ -20,17 +20,47 @@
 				<b-col sm="12" lg="10" offset-lg="1">
 					<b-row class="mb-5">
 						<b-col sm="12" lg="2" class="text-center">
-							<img
-								class="img-fluid"
-								src="../assets/images/coupang-logo-vector.svg"
-							/>
+              <a href="https://www.traveloka.com/" target="_blank">
+                <img
+                  class="img-fluid"
+                  src="../assets/images/traveloka.png"
+                />
+              </a>
+						</b-col>
+						<b-col sm="12" lg="10">
+							<h4 class="mb-0">
+								Sr. Software Engineer (IC) - Traveloka
+							</h4>
+							<p class="text-blue-soft">
+								<small>Jun, 2022 - Present</small>
+							</p>
+							<p>
+								At Traveloka I assigned as Senior IC at Flight Engineering Domain.
+                I mostly focusing on oversee the existing microservices and the related
+                infrastructure to seek for potential improvement and optimization,
+                from architectural point of view, cost, and code efficiency.
+                Other than that I also helping product team with various feature development.
+							</p>
+							<p>
+								Tech Stack: Java, Terraform, AWS, Postgress, Datadog, MongoDB, etc
+							</p>
+						</b-col>
+					</b-row>
+					<b-row class="mb-5">
+						<b-col sm="12" lg="2" class="text-center">
+              <a href="http://coupang.com/" target="_blank">
+                <img
+                  class="img-fluid"
+                  src="../assets/images/coupang-logo-vector.svg"
+                />
+              </a>
 						</b-col>
 						<b-col sm="12" lg="10">
 							<h4 class="mb-0">
 								Sr. Software Engineer - Coupang
 							</h4>
 							<p class="text-blue-soft">
-								<small>Aug, 2020 - Present</small>
+								<small>Aug, 2020 - May, 2022</small>
 							</p>
 							<p>
 								Part of Coupang Play launch team, focusing on Backend Chapter
@@ -65,10 +95,12 @@
 					<hr class="ml-4 mr-4 mb-5" />
 					<b-row class="mb-5">
 						<b-col sm="12" lg="2" class="text-center">
-							<img
-								class="img-fluid"
-								src="../assets/images/warungpintar_logo.png"
-							/>
+              <a href="https://warungpintar.co.id/" target="_blank">
+                <img
+                  class="img-fluid"
+                  src="../assets/images/warungpintar_logo.png"
+                />
+              </a>
 						</b-col>
 						<b-col sm="12" lg="10">
 							<h4 class="mb-0">
@@ -89,7 +121,9 @@
 					<hr class="ml-4 mr-4 mb-5" />
 					<b-row class="mb-5">
 						<b-col sm="12" lg="2" class="text-center">
-							<img class="img-fluid" src="../assets/images/hooq-logo.png" />
+              <a href="https://hooq.tv/" target="_blank">
+                <img class="img-fluid" src="../assets/images/hooq-logo.png" />
+              </a>
 						</b-col>
 						<b-col sm="12" lg="10">
 							<h4 class="mb-0">
@@ -118,10 +152,12 @@
 					<hr class="ml-4 mr-4 mb-5" />
 					<b-row class="mb-5">
 						<b-col sm="12" lg="2" class="text-center">
-							<img
-								class="img-fluid"
-								src="../assets/images/pixel-logo-square.jpg"
-							/>
+              <a href="https://www.managix.id/" target="_blank">
+                <img
+                  class="img-fluid"
+                  src="../assets/images/pixel-logo-square.jpg"
+                />
+              </a>
 						</b-col>
 						<b-col sm="12" lg="10">
 							<h4 class="mb-0">
@@ -184,10 +220,12 @@
 					<hr class="ml-4 mr-4 mb-5" />
 					<b-row class="mb-5">
 						<b-col sm="12" lg="2" class="text-center">
-							<img
-								class="img-fluid mb-3"
-								src="../assets/images/bosung-logo.gif"
-							/>
+              <a href="https://ptbosung.co.id/en/" target="_blank">
+                <img
+                  class="img-fluid mb-3"
+                  src="../assets/images/bosung-logo.gif"
+                />
+              </a>
 						</b-col>
 						<b-col sm="12" lg="10">
 							<h4 class="mb-0">
