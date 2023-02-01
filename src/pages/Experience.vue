@@ -138,9 +138,7 @@
 								not limited to:
 							</p>
 							<ul class="listed-item">
-								<li>Playback API</li>
-								<li>User management API</li>
-								<li>Partner Integration API</li>
+								<li>Various Microservice APIs</li>
 								<li>User Eligibility Checker</li>
 								<li>Various AWS Stack</li>
 								<li>Adaptive Video Streaming</li>
@@ -173,13 +171,10 @@
 								<li>
 									Hiring Engineering Team
 								</li>
+								<li>
+									Code & Architecture Review
+								</li>
 							</ul>
-							<br />
-							<p>
-								Tech Stack: Golang, NodeJS, NSQ, ELK Stack, AWS, GCP,
-								Prometheus, etc
-							</p>
-
 							<br />
 
 							<h4 class="mb-0">
@@ -190,14 +185,10 @@
 							</p>
 							<ul class="listed-item">
 								<li>
-									Develop Front-end application with ReactJS, Vanilla
-									JavaScript, and Laravel
+									Migrate Front-end application from Vanilla to React
 								</li>
 								<li>
-									Build back-end service with Python, NodeJS and Go
-								</li>
-								<li>
-									Front-end with ReactJS, VueJS, and Vanilla JavaScript
+									Rewrite the Core Backend Services with Golang to make it more efficient
 								</li>
 								<li>
 									Database and Search with MongoDB, ElasticSearch and SQL
@@ -211,10 +202,6 @@
 								</li>
 							</ul>
 							<br />
-							<p>
-								Tech Stack: Golang, NodeJS, NSQ, ELK Stack, AWS, GCP,
-								Prometheus, etc
-							</p>
 						</b-col>
 					</b-row>
 					<hr class="ml-4 mr-4 mb-5" />
